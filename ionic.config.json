@@ -1,0 +1,7 @@
+{
+  "name": "highcharts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
